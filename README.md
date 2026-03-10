@@ -1,6 +1,12 @@
 # Healthcare Claims Analytics  
 ## Medicare Geographic Variation Analysis (2019–2023)
 
+## Key Results
+
+- Model explains ~66% of cross-county variation in Medicare spending
+- Predicts per-capita spending within ~$751 on average (MAE)
+- Identifies clinical risk and inpatient utilization as primary cost drivers
+
 ---
 
 ## Overview
@@ -132,3 +138,4 @@ This project investigates:
 A detailed executive-level summary is available here:
 
 [View Executive Summary](reports/executive_summary.md)
+
