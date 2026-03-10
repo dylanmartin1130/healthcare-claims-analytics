@@ -13,7 +13,7 @@ County-level Medicare Geographic Variation Public Use File data (CMS) was used f
 
 A multivariate OLS regression model was constructed using demographic, risk, and utilization variables. Multicollinearity was assessed using Variance Inflation Factors (VIF), and a log transformation of spending was applied to improve model stability and interpretability.
 
-The final model explains approximately 55% of cross-county spending variation (R² ≈ 0.55), which is strong performance for cross-sectional healthcare cost modeling.
+The final model explains approximately 66% of cross-county spending variation (R² ≈ 0.66), which is strong performance for cross-sectional healthcare cost modeling.
 
 ---
 
