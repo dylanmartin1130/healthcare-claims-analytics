@@ -123,4 +123,12 @@ This project investigates:
 - Statsmodels  
 - Scikit-learn  
 - Seaborn / Matplotlib  
-- Git  
+
+- Git
+
+
+## Executive Summary
+
+A detailed executive-level summary is available here:
+
+[View Executive Summary](reports/executive_summary.md)
