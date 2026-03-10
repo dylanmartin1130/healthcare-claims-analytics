@@ -139,3 +139,17 @@ A detailed executive-level summary is available here:
 
 [View Executive Summary](reports/executive_summary.md)
 
+
+## Reproducibility
+
+To replicate this analysis:
+
+1. Clone the repository  
+2. Install dependencies:
+
+   pip install -r requirements.txt
+
+3. Run the notebook:
+   notebooks/01_medicare_spending_model.ipynb
+
+Data source: CMS Medicare Geographic Variation Public Use File (2014–2023)
